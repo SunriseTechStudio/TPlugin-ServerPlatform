@@ -1,2 +1,2 @@
 # TPlugin-ServerPlatform
-A moduled comprehensive management and hirh expandable plugin
+A moduled comprehensive management and high expandable plugin
